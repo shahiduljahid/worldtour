@@ -1,0 +1,30 @@
+#countries{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-column-gap: 20px;
+   
+
+
+}
+.country{
+    border: 2px solid goldenrod;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+
+
+}
+h3{
+    color: tomato;
+
+}
+p{
+    color: green;
+
+}
+#countryDetails img{
+
+    width: 200px;
+
+
+}
